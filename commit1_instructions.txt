@@ -1,0 +1,29 @@
+Commit 1 Contents
+
+For your Commit 1, include the following items:
+
+1.  Project Folder Structure
+
+    disk-scheduling-simulator/
+        ├── main.py
+        ├── algorithms/
+        ├── README.md
+        ├── .gitignore
+
+2.  README.md A simple project description:
+
+    # Disk Scheduling Simulator
+    Initial project setup for CA2.
+
+3.  main.py Can be empty or contain:
+
+    print("Disk Scheduling Simulator - Project Initialized")
+
+4.  algorithms Folder Empty folder for now.
+
+5.  .gitignore Recommended entries:
+
+    __pycache__/
+    *.pyc
+
+This file describes exactly what should be included in Commit 1.
