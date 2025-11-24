@@ -1,6 +1,4 @@
-Commit 1 Contents
 
-For your Commit 1, include the following items:
 
 1.  Project Folder Structure
 
@@ -26,4 +24,3 @@ For your Commit 1, include the following items:
     __pycache__/
     *.pyc
 
-This file describes exactly what should be included in Commit 1.
